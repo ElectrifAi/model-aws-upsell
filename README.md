@@ -8,3 +8,4 @@ Predict the score of upsell probability. For example, if a customer buys car ins
 
 SKU: UPSEL-PS-CCC-AWS-001
 
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-sngje4qbi4xqo
